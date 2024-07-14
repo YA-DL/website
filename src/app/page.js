@@ -108,6 +108,8 @@ export default function Home() {
           </p>
         </a>
       </div>
+      <p1>hello</p1>
+      <img src="/icons/1.png" alt="Girl in a jacket" width="80" height="80"></img>
     </main>
   );
 }
